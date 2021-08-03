@@ -19,6 +19,7 @@ export default {
   // Themes and plugins
   theme: "docs",
   plugins: ['sidebar'],
+  github: 'https://github.com/Selenamona/Pagic',
   // plugins: ['clean', 'init', 'md', 'tsx', 'sidebar', 'prev_next', 'ga', 'script', 'layout', 'out'],
   // Page content
   title: 'Pagic 基础实现',
